@@ -15,7 +15,8 @@ Given an `m x n matrix`, return all elements of the `matrix` in spiral order.
 
 ## Submission:
 
-Solutions must pass all test cases, including edge cases; tests used for grading/scoring will be from the LeetCode testcases.
+- Please include an input variable `matrix` (like in the examples) in your code to make testing your code easier. Print out the result to the console/stdout.
+- Solutions must pass all test cases, including edge cases; tests used for grading/scoring will be from the LeetCode testcases.
 Fast execution times will be rewarded, but solutions must, first and foremost, be correct and complete.
 If more than three languages are submitted, the fastest solution from each of the top three will be considered.
 
