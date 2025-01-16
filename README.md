@@ -15,7 +15,7 @@ Given an `m x n matrix`, return all elements of the `matrix` in spiral order.
 
 ## Submission:
 
-- Please include an input variable `matrix` (like in the examples) in your code to make testing your code easier. Print out the result to the console/stdout.
+- Please include an input variable `matrix` (like in the examples) in your code to allow for testing your code. Print out the result to the console/stdout.
 - Solutions must pass all test cases, including edge cases; tests used for grading/scoring will be from the LeetCode testcases.
 Fast execution times will be rewarded, but solutions must, first and foremost, be correct and complete.
 If more than three languages are submitted, the fastest solution from each of the top three will be considered.
@@ -40,7 +40,7 @@ Input: `matrix = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]`
 Output: `[1,2,3,4,8,12,11,10,9,5,6,7]`
 
 ### Due Date
-All solutions must be submitted through this UI or by email by Jan 12th at 23:59:59
+All solutions must be submitted through this UI or by email by Jan 26th at 23:59:59
 
 
 **Leetcode URL:** [https://leetcode.com/problems/spiral-matrix/description/](https://leetcode.com/problems/spiral-matrix/description/)
