@@ -1,0 +1,42 @@
+{
+  "Kyle_Whitten": {
+    "accuracy": "26/26",
+    "averageRuntime": 54.55997709999999,
+    "place": 2
+  },
+  "John_Williams": {
+    "accuracy": "26/26",
+    "averageRuntime": 52.4429202,
+    "place": 1
+  },
+  "Karry_Theberge": {
+    "accuracy": "26/26",
+    "averageRuntime": 57.000443100000005,
+    "place": 5
+  },
+  "Alexander_C_Caradonna": {
+    "accuracy": "26/26",
+    "averageRuntime": 173.223,
+    "place": 6
+  },
+  "Jack_Michaud": {
+    "accuracy": "26/26",
+    "averageRuntime": 55.1237737,
+    "place": 3
+  },
+  "Twashington": {
+    "accuracy": "26/26",
+    "averageRuntime": 237.01300000000006,
+    "place": 7
+  },
+  "Drew_Schineller": {
+    "accuracy": "26/26",
+    "averageRuntime": 56.85974230000001,
+    "place": 4
+  },
+  "Aric_Nappi": {
+    "accuracy": "26/26",
+    "averageRuntime": 428.12611269999996,
+    "place": 8
+  }
+}
