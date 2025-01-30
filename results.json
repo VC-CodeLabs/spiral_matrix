@@ -2,41 +2,44 @@
   "Kyle_Whitten": {
     "accuracy": "26/26",
     "averageRuntime": 54.55997709999999,
-    "place": 2
+    "language": "Java"
   },
   "John_Williams": {
     "accuracy": "26/26",
     "averageRuntime": 52.4429202,
+    "language": "Java",
     "place": 1
   },
   "Karry_Theberge": {
     "accuracy": "26/26",
     "averageRuntime": 57.000443100000005,
-    "place": 5
+    "language": "Java"
   },
   "Alexander_C_Caradonna": {
     "accuracy": "26/26",
     "averageRuntime": 173.223,
-    "place": 6
+    "language": "Python",
+    "place": 3
   },
   "Jack_Michaud": {
     "accuracy": "26/26",
     "averageRuntime": 55.1237737,
-    "place": 3
+    "language": "Java"
   },
   "Twashington": {
     "accuracy": "26/26",
     "averageRuntime": 237.01300000000006,
-    "place": 7
+    "language": "Python"
   },
   "Drew_Schineller": {
     "accuracy": "26/26",
     "averageRuntime": 56.85974230000001,
-    "place": 4
+    "language": "Kotlin",
+    "place": 2
   },
   "Aric_Nappi": {
     "accuracy": "26/26",
     "averageRuntime": 428.12611269999996,
-    "place": 8
+    "language": "Clojure"
   }
 }
